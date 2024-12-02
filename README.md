@@ -8,11 +8,9 @@ Enhancements to Canvas like dark mode, better todo list, GPA calculator, and mor
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-
 ## Inquiries
 
-To contact me, please email ksucpea@gmail.com, or you can open an issue within the "Issues" tab on GitHub.
+Please have a teacher/staff member email Marc Moya.
 
 ## Table of Contents
 
@@ -108,14 +106,6 @@ To use Better Canvas, select your browser below to install the extension.
 | Accent 01  | ![#ff002e](https://via.placeholder.com/10/ff002e?text=+) #ff002e |
 | Accent 02  | ![#ff5200](https://via.placeholder.com/10/ff5200?text=+) #ff5200 |
 | Accent 03  | ![#ff47ad](https://via.placeholder.com/10/ff47ad?text=+) #ff47ad |
-
-## Contributing
-
-### Add a new feature
-
-To add a new feature, please follow these guidelines.
-
-Note: I will probably make this automated in the future but it's a bit of work right now.
 
 #### Identifier
 
@@ -268,12 +258,13 @@ Learn more about tree commands for Windows [here](https://learn.microsoft.com/en
 
 ## Authors
 
-#### Owner
+### CJUHSD Product
+- Marc Moya
 
+#### Original Author
 - [ksucpea](https://github.com/ksucpea)
 
 #### Contributors
-
 - [fudgeu](https://github.com/fudgeu)
 - [Tibo Geeraerts](https://github.com/tibogeeraerts)
 - [Jacob Mungle](https://github.com/Jelgnum)
