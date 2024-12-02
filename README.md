@@ -65,7 +65,6 @@ To use Better Canvas, select your browser below to install the extension.
 
 [Chrome](https://chrome.google.com/webstore/detail/better-canvas/cndibmoanboadcifjkjbdpjgfedanolh)
 
-[Firefox](https://addons.mozilla.org/addon/better-canvas/)
 
 ### How to use
 
