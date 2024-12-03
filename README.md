@@ -1,4 +1,4 @@
-![Better Canvas](/icon/icon-wide.png)
+![Better Canvas](/icon/CJUHSD-icon-wide.png)
 
 # Better Canvas
 
