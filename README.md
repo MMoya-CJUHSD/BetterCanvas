@@ -218,15 +218,13 @@ You can export a theme using the export tool in the menu and sending an email to
 │ ├── options.html
 │ └── popup.html
 ├── icon
-│ ├── icon-128.png
-│ ├── icon-16.png
-│ ├── icon-19.png
-│ ├── icon-32.png
-│ ├── icon-38.png
-│ ├── icon-48.png
-│ ├── icon-wide.png
-│ ├── iconwpadding.png
-│ └── oldicon-128.png
+│ ├── CJUHSD-icon-128.png
+│ ├── CJUHSD-icon-16.png
+│ ├── CJUHSD-icon-19.png
+│ ├── CJUHSD-icon-32.png
+│ ├── CJUHSD-icon-38.png
+│ ├── CJUHSD-icon-48.png
+│ ├── CJUHSD-icon-wide.png
 ├── js
 │ ├── background.js
 │ ├── content.js
