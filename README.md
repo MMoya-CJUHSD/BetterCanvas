@@ -51,7 +51,7 @@ To install, run, and build with this repository,
 - Clone the repository locally with
 
 ```bash
-  git clone https://github.com/ksucpea/bettercanvas.git
+  git clone https://github.com/MMoya-CJUHSD/BetterCanvas.git
 ```
 
 - Visit `chrome://extensions` in your browser.
