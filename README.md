@@ -273,4 +273,4 @@ Learn more about tree commands for Windows [here](https://learn.microsoft.com/en
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Better Canvas](/icon/icon-48.png)
+![Better Canvas](/icon/CJUHSD-icon-48.png)
