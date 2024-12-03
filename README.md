@@ -56,7 +56,7 @@ To install, run, and build with this repository,
 
 - Visit `chrome://extensions` in your browser.
 - Enable developer mode by toggling the switch in the upper right corner of the viewport.
-- Click the "Load upacked" button in the header.
+- Click the "Load unpacked" button in the header.
 - When prompted to open a file, select the root directory of this repository.
 
 ## Usage
