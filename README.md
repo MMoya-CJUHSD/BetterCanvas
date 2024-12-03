@@ -255,7 +255,7 @@ Learn more about tree commands for Windows [here](https://learn.microsoft.com/en
 
 ## Authors
 
-### CJUHSD Product
+### CJUHSD Fork
 - Marc Moya
 
 #### Original Author
